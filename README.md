@@ -14,7 +14,7 @@ Growth mindset is believing that someones talents or abilities can be grown over
 
 _My name is Zariya Easley.  I am a very sweet person to get to know. I would love any tips possible i am fairly new to coding._
 
-[https://zariya1998.github.io/reading-notes/]
+ [GitHub Pages](https://zariya1998.github.io/reading-notes/)
 
 ### Contact information ###
 
