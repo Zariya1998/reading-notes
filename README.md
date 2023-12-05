@@ -10,7 +10,7 @@ Growth mindset is believing that someones talents or abilities can be grown over
 
 3.believe in yourself
 
-![This image is a photo of me from my facebook page](https://cdn-icons-png.flaticon.com/512/7959/7959365.png)
+![This image is a photo of the symbol of friendship ](https://cdn-icons-png.flaticon.com/512/7959/7959365.png)
   
 ## Introduction ## 👋
 
